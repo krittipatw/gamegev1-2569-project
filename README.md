@@ -1,10 +1,5 @@
 # 🎮 2D Platformer Starter Kit
 
-<p align="center">
-  <img src="docs/demo1.jpg" width="300">
-  <img src="docs/demo2.jpg" width="300">
-</p>
-
 ## 📖 คำอธิบายโครงการ
 
 Starter Kit นี้รวบรวมกลไกพื้นฐานที่จำเป็นทั้งหมดสำหรับการสร้างเกม 2D Platformer แบบสมบูรณ์ด้วย Godot Engine 4.7 ไม่ว่าจะเป็นระบบตัวละครผู้เล่น ศัตรู กับดัก การเก็บไอเท็ม ระบบเลือดและคะแนน ไปจนถึงระบบบันทึกและโหลดเกม
@@ -25,6 +20,10 @@ Starter Kit นี้รวบรวมกลไกพื้นฐานที�
 ## 🎥 ตัวอย่างการเล่น (Demo Video)
 
 ดูวิดีโอสาธิตการเล่นเกมได้ที่ 👉 [คลิกเพื่อรับชม](https://drive.google.com/file/d/1eooKx6GzgJVNtlNvqV3fn2knDgGn6y1q/view?usp=sharing)
+  <p align="center">
+    <img src="docs/demo1.png" width="300">
+    <img src="docs/demo2.png" width="300">
+  </p>
 
 ## 🕹️ ทดลองเล่นเกม
 
